@@ -43,7 +43,10 @@
       ]
     },
     {
-      "group": "Guia Semi-Vannila"
+      "group": "Guia Semi-Vannila",
+      "pages": [
+        "essentials/markdown"
+      ]
     }
   ],
   "footerSocials": {
